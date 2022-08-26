@@ -1,6 +1,12 @@
 # coming soon ☝️
 # segera hadir 😀
-# pake doang ga follow, kontol loh
+# PAKE DOANG NGGA FOLLOW, KOMTOL LO 
+# INFO METODE
+```bash
+[1] validate : easy (cepet)
+[2] reguler  : medium (sedang)
+[3] password : hard (lemod)
+```
 🔥 Logo
 ![deskripsi gambar](https://i.ibb.co/8x16bwt/Screenshot-2022-08-27-06-13-01-918-com-termux.png)
 😚 Gambar hanya pemanis selebihnya cobain sendiri
