@@ -1,5 +1,6 @@
 # coming soon ☝️
 # segera hadir 😀
+# pake doang ga follow, kontol loh
 🔥 Logo
 ![deskripsi gambar](https://i.ibb.co/8x16bwt/Screenshot-2022-08-27-06-13-01-918-com-termux.png)
 😚 Gambar hanya pemanis selebihnya cobain sendiri
