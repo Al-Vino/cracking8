@@ -9,7 +9,7 @@ $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests mechanize
 $ pip install rich bs4
-$ pip install stdiomask
+$ pip install stdiomask urllib3
 $ pip install --upgrade pip
 $ git clone https://github.com/Al-Vino/cracking8
 $ ls ( L kecil )
