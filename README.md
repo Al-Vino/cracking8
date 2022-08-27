@@ -1,4 +1,4 @@
-# coming soon ☝️
+# author mau Kawen dulu tunggu ya
 # segera hadir 😀
 # PAKE DOANG NGGA FOLLOW, KOMTOL LO 
 # INFO METODE
