@@ -1,6 +1,17 @@
-# coming soon ☝️
-# segera hadir 😀
-# PAKE DOANG NGGA FOLLOW, KOMTOL LO 
+# Budayakan Install lewat github 🖕
+```php
+Ingat... yang bilang
+Script gua berlogger
+Fix anda sungguh tololl
+Yang pasti semuanya aman 🙄
+Yang mau source codenya
+Chat aja gua 🙇🙇
+Satu pesen lagi
+Hasil tergantung target
+Scrip ini akan update setiap saat 
+Soo fokus disini aee ☝️
+```
+# PAKE DOANG NGGA FOLLOW, KOMTOL LO🗿
 # INFO METODE
 ```bash
 [1] validate : easy (cepet)
